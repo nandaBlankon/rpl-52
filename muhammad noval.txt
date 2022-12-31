@@ -1,0 +1,3 @@
+kelas : 5.2
+Npm   : 20105111035
+nama  : muhammad noval
